@@ -1,0 +1,15 @@
+# Default reviewers/codeowners for all code changes
+
+- @Dusan2507 @DejanBozic94
+
+# Reviewer by email for html files
+
+\*.html test@gmail.com
+
+# Reviewer by organization Team
+
+\*.txt @organizationName/TeamName
+
+# Reviewer by specific folders
+
+/folder1/folder2 @user1 @user2 @test@gmail.com
