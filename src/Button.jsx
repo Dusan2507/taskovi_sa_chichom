@@ -2,12 +2,12 @@ import React from 'react'
 
 function Button() {
 
-const buttonClickBre = () => {
+const buttonClick = () => {
 	alert('klikno si me brate')
 }
 
   return (
-    <button onClick={buttonClickBre}>Button</button>
+    <button onClick={buttonClick}>Button</button>
   )
 }
 
